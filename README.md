@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a passionate data analyst with a strong background in transforming raw data into actionable business insights. My interest lies in uncovering patterns and trends that drive strategic decision-making across various industries, with particular expertise in media analytics.
+I love digging into data to uncover stories, spot patterns, and help people make smarter decisions from the numbers.
 
 ## Professional Summary
 
